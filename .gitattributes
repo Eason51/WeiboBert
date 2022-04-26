@@ -1,0 +1,4 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+*.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+.json filter=lfs diff=lfs merge=lfs -text
+data-000000-of-00001 filter=lfs diff=lfs merge=lfs -text
